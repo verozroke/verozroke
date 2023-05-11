@@ -49,4 +49,4 @@ I live in Kazakhstan. Currently studying at Astana IT University on Cybersecurit
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/verozroke"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=verozroke" alt="verozroke's GitHub stats" /></a> 
+<a href="http://www.github.com/verozroke"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeFama&&show_icons=true" alt="verozroke's GitHub stats" /></a> 
