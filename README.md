@@ -4,7 +4,7 @@ Hi 👋 My name is Takayev Askhat
 Vue & React Frontend Developer
 ------------------------------
 
-I live in Kazakhstan. Currently studying at Astana IT University on Cybersecurity bachelors degree I'm 17 years old. Have a lot of friend and enjoy communicating among people. I prefer to introduct myself as a happy person. I can see good sides in the most of elementary things. Solving problems for me is sometimes complicated, but I understand that by solving them, I become even better. This is what actually motivates me everyday. 
+I live in Kazakhstan. Currently studying at Astana IT University on Cybersecurity bachelors degree I'm 18 years old. Have a lot of friend and enjoy communicating among people. I prefer to introduct myself as a happy person. I can see good sides in the most of elementary things. Solving problems for me is sometimes complicated, but I understand that by solving them, I become even better. This is what actually motivates me everyday. 
 
 I've been learning programming since the beginning of 2022, but took those learning seriously only on December 2022. Currently, I move myself towards Full-Stack development by developing applications using Node.js or Laravel as a backend and Vue 3 (Composition API) and React as a frontend.
 
